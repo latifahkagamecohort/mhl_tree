@@ -1,13 +1,11 @@
 {
     "cs50": {
         "debug": {
-            "@name": null,
-            "@pid": null,
-            "@proxy": null,
             "@ver": 11
         },
         "info": {
             "@info_revision": 3,
+            "@latestVersion": 158,
             "@update_revision": 4
         },
         "simple": {

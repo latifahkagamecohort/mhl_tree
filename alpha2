@@ -1,0 +1,14 @@
+# include <stdio.h>
+# include <cs50.h>
+
+
+int main(void)
+{
+
+char character = 'a';
+character = character-97;
+
+{
+    printf("%i",character);
+}
+}
