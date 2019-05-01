@@ -73,7 +73,7 @@ while(amount>=j)
 printf("The minimum number of coins for your change is %i",i);
 
 }
-
+}
 
 
 

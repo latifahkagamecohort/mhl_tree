@@ -1,6 +1,9 @@
 {
     "cs50": {
         "debug": {
+            "@name": "output",
+            "@pid": 1815,
+            "@proxy": 1940,
             "@ver": 11
         },
         "info": {
